@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .container {
     display: flex;
     flex-direction: column;
@@ -78,3 +79,32 @@
     margin-top: -15px;
     color: #d25ca1;
   }
+=======
+.bold {
+  font-weight: bold;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.filters {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px 200px;
+}
+
+.filters button {
+  width: 100px;
+}
+
+.products {
+  margin: 0 100px;
+  border-top: 2px solid #999;
+}
+
+.product-item {
+  border-bottom: 2px solid #999;
+}
+>>>>>>> m8-start
